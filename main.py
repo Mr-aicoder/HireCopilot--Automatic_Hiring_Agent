@@ -132,7 +132,6 @@ with tab2:
                         for file in uploaded_files:
                             file_path = os.path.join("uploads", f"{uuid.uuid4()}_{file.name}")
                             with open(file_path, "wb") as f: f.write(file.getbuffer())
-                                f.write(file.getbuffer())
                             saved_files.append(file_path)
 
                         screening_graph = create_screening_graph()
