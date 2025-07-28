@@ -1,4 +1,4 @@
-# HireFlow: Automatic Hiring Agent
+# HireCopilot: Automatic Hiring Agent
 This is a multi-agent AI application built with Streamlit, LangGraph, and LangChain to automate the hiring process.
 
 https://github.com/user-attachments/assets/ce4b2060-5e82-4633-b377-01cbd234437e
