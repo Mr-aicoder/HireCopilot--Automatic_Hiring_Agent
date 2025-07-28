@@ -14,6 +14,13 @@ This is a multi-agent AI application built with Streamlit, LangGraph, and LangCh
   - A Resume Parser Agent extracts key information into a structured format.
   - A Screening & Scoring Agent compares each resume against the generated JD, providing a score and detailed rationale.
   - A Summarizer Agent creates a concise summary for the top candidates.
+ 
+- **Phase 3: Interview Preparation**
+  - After screening, select a high-scoring candidate from a dropdown list.
+  - An **Interview Question Generator** agent analyzes the specific candidate's profile against the job description.
+  - It generates a tailored set of interview questions covering **technical, behavioral, and situational** aspects, designed to probe the candidate's unique strengths and explore any identified gaps.
+ 
+  
 
 ## Setup
 
@@ -40,6 +47,8 @@ This is a multi-agent AI application built with Streamlit, LangGraph, and LangCh
     ```bash
     mkdir uploads
     ```
+
+    
 
 ## How to Run
 
