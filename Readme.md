@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/ce4b2060-5e82-4633-b377-01cbd234437e
 
 - **Phase 1: Job Description Generation**
   - Takes a simple job title (e.g., "Senior Backend Engineer, Python/AWS").
-  - A Market Research Agent finds similar JDs online.
+  - A Market Research Agent finds similar Job Descriptiinss online.
   - A JD Crafter Agent synthesizes the research into a first draft.
   - An Inclusivity & Tone Agent refines the draft using a RAG knowledge base to ensure fair and effective language.
 
