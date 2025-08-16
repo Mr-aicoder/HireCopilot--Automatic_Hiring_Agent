@@ -8,3 +8,4 @@ pypdf
 python-dotenv
 lxml
 langchain_google_genai
+
