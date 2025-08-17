@@ -4,7 +4,7 @@ This is a multi-agent AI application built with Streamlit, LangGraph, and LangCh
 https://github.com/user-attachments/assets/ce4b2060-5e82-4633-b377-01cbd234437e
 
 
-<img width="1726" height="596" alt="Automatic Hiring Agent Diagram" src="https://github.com/user-attachments/assets/1e08ec58-22a5-4061-b82d-76b4d74eabd8" />
+
 
 
 
@@ -28,7 +28,8 @@ https://github.com/user-attachments/assets/ce4b2060-5e82-4633-b377-01cbd234437e
   - An **Interview Question Generator** agent analyzes the specific candidate's profile against the job description.
   - It generates a tailored set of interview questions covering **technical, behavioral, and situational** aspects, designed to probe the candidate's unique strengths and explore any identified gaps.
  
-  
+
+<img width="1726" height="596" alt="Automatic Hiring Agent Diagram" src="https://github.com/user-attachments/assets/1e08ec58-22a5-4061-b82d-76b4d74eabd8" />
 
 ## Setup
 
@@ -67,4 +68,5 @@ streamlit run app.py
 ```
 
 Navigate to the local URL provided by Streamlit in your web browser.
+
 
