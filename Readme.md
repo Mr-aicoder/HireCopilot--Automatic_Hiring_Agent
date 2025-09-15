@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/ce4b2060-5e82-4633-b377-01cbd234437e
 
 # Features
 
-## Phase 1: Job Description (JD) Generation 
+## Phase 1: Job Description (JD) Generation. 
 This phase is orchestrated by a LangGraph workflow that automatically creates a 
 comprehensive and inclusive job description from a simple job title. 
 #### 1. Market Research: 
@@ -96,6 +96,7 @@ streamlit run app.py
 ```
 
 Navigate to the local URL provided by Streamlit in your web browser.
+
 
 
 
