@@ -36,4 +36,5 @@ def inclusivity_agent_node(state):
         "knowledge_base": knowledge_base
     }).content
 
+
     return {"final_jd": revised_jd_with_summary}
