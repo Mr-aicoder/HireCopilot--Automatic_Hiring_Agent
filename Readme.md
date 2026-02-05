@@ -16,7 +16,7 @@ entry point. It uses a web search tool (DuckDuckGo) to find similar job
 descriptions and then uses a Large Language Model (LLM) to extract and  structure   
 key information like common responsibilities, qualifications, and tech stacks.
 #### 2. JD Crafting: 
-The jd_crafting_agent_node (jd_crafter_agent.py) receives the 
+The jd_crafting_agent_node  (jd_crafter_agent.py) receives the 
 research findings and acts as an "expert HR copywriter". It synthesizes the 
 information into a draft job description using Markdown formatting, including 
 sections like "Key Responsibilities" and "Required Qualifications". 
