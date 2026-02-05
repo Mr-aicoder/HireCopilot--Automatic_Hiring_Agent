@@ -13,7 +13,7 @@ comprehensive and inclusive job description from a simple job title
 #### 1. Market Research:  
 The research_agent_node (market_research_agent.py) is the 
 entry point. It uses a web search tool (DuckDuckGo) to find similar job 
-descriptions and then uses a Large Language Model (LLM) to extract and  structure 
+descriptions and then uses a Large Language Model (LLM) to extract and  structure  
 key information like common responsibilities, qualifications, and tech stacks.
 #### 2. JD Crafting: 
 The jd_crafting_agent_node (jd_crafter_agent.py) receives the 
