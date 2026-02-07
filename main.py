@@ -5,7 +5,7 @@ import utils.database as db
 from agents.interview_question_agent import generate_interview_questions
 from graphs.jd_graph import create_jd_graph
 from graphs.screening_graph import create_screening_graph
-from agents.summerizer_agent import summarizer_agent
+from agents.summerizer_agent import summarizer_agent 
 
 # --- Page Configuration ---
 st.set_page_config(
