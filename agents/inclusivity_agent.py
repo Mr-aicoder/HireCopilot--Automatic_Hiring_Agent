@@ -1,5 +1,5 @@
 from langchain_core.prompts import ChatPromptTemplate 
-from utils.llm_provider import get_llm
+from utils.llm_provider import get_llm 
  
 def get_inclusivity_knowledge():
     with open("rag_source/inclusivity_knowledge_base.md", "r") as f:
